@@ -13,6 +13,7 @@ Do not forgot to omit venv at the end, because, the program will be running at s
 ```
 git clone git@github.com:Improwised/cap_checker.git
 cd cap_checker
+```
 
 2. Install python-tk
 ```
