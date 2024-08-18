@@ -1,13 +1,16 @@
 # cap_checker
 Capslock Notifier for Garuda Linux
 
+## Todo's for me
 This aims at creating capslock indicator for starlabs laptop.
 - It is not working for gnome and terminal
 - Service is failing, have to check that
+- Also do not forgot to remove user "devarshi.trivedi" from service file
+- Refine the documentation in README.md
 
 Do not forgot to omit venv at the end, because, the program will be running at system level, so system should contain those packages with same versions.
 
-## Steps
+## Steps for you
 
 1. Clone the repository in home directory
 ```
